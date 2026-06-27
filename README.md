@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm G. Radha Shyam</h1>
 <h3 align="center">Student at NIT Warangal(2025-2029)| B.Tech-CSE(AI&DS) | Aspiring Machine Learning & Data Science</h3>
 
-- 🔭 I’m currently working on **Machine Learning and EDA**
 
 - 🌱 I’m currently learning **Machine learning,EDA**
 
